@@ -22,7 +22,7 @@ env:
   PACKAGE_NAME: basket_paws
   # The itch.io page to upload to, in the format: `user-name/project-name`.
   # Comment this out to disable.
-  ITCH_TARGET: smayrh/basket_paws
+  ITCH_TARGET: smayrh/basket-paws
   # The organization or author that owns the rights to the game.
   OWNER: smayrh
   # The path to the assets directory.
